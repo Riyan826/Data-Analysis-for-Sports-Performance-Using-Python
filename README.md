@@ -1,5 +1,5 @@
 
-# IPL Data Analysis Project
+# Data Analysis for Sports Performance Using Python
 
 ## Overview
 This project analyzes data from the Indian Premier League (IPL), focusing on match outcomes, team performance, and various statistics. The primary goal is to extract insights from historical IPL match data using Python for data analysis and visualization.
